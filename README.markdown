@@ -27,4 +27,4 @@ CREDITS
 
 Crafted by [Lance](http://twitter.com/gutini) with help from [Elliott](http://twitter.com/elliottmunoz) and [Todd](http://twitter.com/toddmoy) at [Viget Labs](http://viget.com).
 
-Special thanks to the Twitter Bootstrap crew : [@fat](http://twitter.com/fat) and [@mdo](http://twitter.com/mdo). Those kids are alright.
+Special thanks to the Twitter Bootstrap crew: [@fat](http://twitter.com/fat) and [@mdo](http://twitter.com/mdo). Those kids are alright.
